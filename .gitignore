@@ -1,0 +1,12 @@
+# Ignore Filebrowser runtime volumes
+filebrowser/config/
+filebrowser/data/
+
+# Ignore Cloudflare credentials
+cloudflared/*.json
+
+# OS/system files
+.DS_Store
+Thumbs.db
+*.log
+*.sh~
